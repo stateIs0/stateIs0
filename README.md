@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**stateIs0/stateIs0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### 我是莫那鲁道 👋
 
 - 🔭 I’m Java engineer
 - 🌱 I’m working in hangzhou
@@ -12,5 +7,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: gwk_2, stateis0, 莫那鲁道
 - ⚡ Fun fact: I have a low education background
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/stateIs0)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
