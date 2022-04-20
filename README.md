@@ -7,4 +7,4 @@
 - 😄 Pronouns: gwk_2, stateis0, 莫那鲁道
 - ⚡ Fun fact: I have a low education background
 
-[![Readme Card](https://github.com/stateIs0/lu-raft-kv)](https://github.com/stateIs0/lu-raft-kv)
+[![lu-raft-kv](https://github-readme-stats.vercel.app/api/pin/?username=stateis0&repo=lu-raft-kv)](https://github.com/stateIs0/lu-raft-kv)
