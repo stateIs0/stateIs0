@@ -13,8 +13,7 @@
 - 👯 I’m like openSource
 - 📫 How to reach me: xianshengzai wechat
 - 😄 Pronouns: gwk_2, stateis0, 莫那鲁道
-- ⚡ Fun fact: I have a low education background
-
+  
 ## Languages and Tools
 <img align="left" width="25" height="25" src="https://www.jetbrains.com/idea/img/idea-edu.svg">
 <img align="left" width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
