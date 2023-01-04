@@ -11,7 +11,7 @@
 - 🔭 I’m Java engineer
 - 🌱 I’m working in hangzhou
 - 👯 I’m like openSource
-- 😄 Pronouns: gwk_2, stateis0, 莫那鲁道
+- 😄 Pronouns: 莫那鲁道
   
 ## Languages and Tools
 <img align="left" width="25" height="25" src="https://www.jetbrains.com/idea/img/idea-edu.svg">
