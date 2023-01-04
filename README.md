@@ -11,7 +11,6 @@
 - 🔭 I’m Java engineer
 - 🌱 I’m working in hangzhou
 - 👯 I’m like openSource
-- 📫 How to reach me: xianshengzai wechat
 - 😄 Pronouns: gwk_2, stateis0, 莫那鲁道
   
 ## Languages and Tools
