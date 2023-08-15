@@ -38,6 +38,8 @@
 
 [![lu-raft-kv](https://github-readme-stats.vercel.app/api/pin/?username=stateis0&repo=lu-raft-kv&theme=dark)](https://github.com/stateIs0/lu-raft-kv)
 
+[![exp](https://github-readme-stats.vercel.app/api/pin/?username=stateis0&repo=exp&theme=dark)](https://github.com/stateIs0/exp)
+
 
 
 ## My Summary
